@@ -1,6 +1,5 @@
-<div align="right>
+
 [![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
-</div>
 
 
 #### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
