@@ -1,10 +1,11 @@
 [![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
 
-
+<div align="right>asd </div>
 
 
 #### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
 ##### Architecture patterns: 
+
 ###### Contact me: https://t.me/aleed3
 
 
