@@ -7,7 +7,7 @@
 
 ***
 
-### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
+### :hammer_and_wrench: _Key skills_: Swift, UIKit, HIG, URLSession,
 #### Architecture patterns: 
 ##### Contact me: https://t.me/aleed3
 ---
