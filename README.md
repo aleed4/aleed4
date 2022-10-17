@@ -1,17 +1,14 @@
 [![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
 
-<div id="header" align="center">
 
-  <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="500"/>
-</div>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif" width="50"/>
 </div>
 
 ***
 
-### :hammer_and_wrench: _Key skills_: Swift, UIKit, HIG, URLSession,
+### :hammer_and_wrench: **Key skills**: Swift, UIKit, HIG, URLSession,
 #### Architecture patterns: 
 ##### Contact me: https://t.me/aleed3
 ---
