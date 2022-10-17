@@ -4,11 +4,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="100"/>
 </div>
----
+
+***
+
 #### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
 
 ##### Architecture patterns: 
-***
+---
 ###### Contact me: https://t.me/aleed3
 
 
