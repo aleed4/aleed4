@@ -1,12 +1,6 @@
- <div id="header" align="right">
-   <a href="https://www.codewars.com/users/aleed12" class="link_link" style="color: #adb375;">issues</a>
-</div>
+[![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
 
 
-<div id="header" align="center">
-  [![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
-  <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="300"/>
-</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif" width="300"/>
