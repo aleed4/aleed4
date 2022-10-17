@@ -2,7 +2,11 @@
 [![codewars](https://www.codewars.com/users/aleed12/badges/small)](https://www.codewars.com/users/aleed12) 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/fVPR3NSqLjVQFEPmP8/giphy.gif" width="300"/>
+</div>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/cPyiJw5NsCXhhRELdf/giphy.gif" width="300"/>
 </div>
 
 ***
