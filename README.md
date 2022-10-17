@@ -3,9 +3,9 @@ https://www.codewars.com/users/aleed12/badges/micro
 
 
 
-:hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
-Architecture patterns: 
-Contact me: https://t.me/aleed3
+### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession,
+#### Architecture patterns: 
+### Contact me: https://t.me/aleed3
 
 
 ### :fire: My Stats :
