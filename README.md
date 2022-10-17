@@ -1,4 +1,6 @@
-
+ <div id="header" align="right">
+   <a href="https://www.codewars.com/users/aleed12" class="link_link" style="color: #adb375;">issues</a>
+</div>
 
 
 <div id="header" align="center">
