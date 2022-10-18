@@ -6,7 +6,7 @@
 
 ***
 ### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire
-#### :file_folder: Architecture patterns: 
+#### :scroll: Architecture patterns: 
 
 
 ##### Contact me: https://t.me/aleed3
