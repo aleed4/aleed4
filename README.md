@@ -5,8 +5,8 @@
 </div>
 
 ***
-### :hammer_and_wrench: _Key skills_: Swift, UIKit, HIG, URLSession, Alamofire
-#### :file_folder: _Architecture patterns_: 
+### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire
+#### :file_folder: Architecture patterns: 
 
 
 ##### Contact me: https://t.me/aleed3
