@@ -5,7 +5,7 @@
 </div>
 
 ***
-### Junior iOS developer
+### :green_apple: Junior iOS developer
 ### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire
 
 #### :file_folder: Architecture patterns: 
