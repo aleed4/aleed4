@@ -5,7 +5,7 @@
 </div>
 
 ***
-### :hammer_and_wrench: Key skills: _Swift, UIKit, HIG, URLSession,_
+### :hammer_and_wrench: Key skills: _Swift, UIKit, HIG, URLSession, Alamofire_
 #### Architecture patterns: 
 
 
