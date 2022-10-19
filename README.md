@@ -6,7 +6,7 @@
 
 ***
 ### Junior iOS developer
-### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire
+### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire, CocoaPods
 
 #### :file_folder: Architecture patterns: 
 
