@@ -8,7 +8,7 @@
 ### Junior iOS developer
 ### :hammer_and_wrench: Key skills: Swift, UIKit, HIG, URLSession, Alamofire, CocoaPods
 
-#### :file_folder: Architecture patterns: 
+#### :file_folder: Architecture patterns: MVP
 
 
 ##### Contact me: https://t.me/aleed3
