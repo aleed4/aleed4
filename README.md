@@ -23,5 +23,5 @@
 
 ### Study projects published on GitHub:
 
-| --- | --- |
-| a| 1. Rest Reminder |
+| --- | ---------------- |
+| a.  | 1. Rest Reminder |
