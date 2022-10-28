@@ -23,8 +23,5 @@
 
 ### Study projects published on GitHub:
 
-|     |     |
-| --- | --- |
-| ![Uploading Simulator_Screen_Recording_-_iPhone_14_Pro_-_2022-10-27_at_19_27_02_AdobeExpress-2.gif…]() | 1. Rest Reminder *Description*:
-_Stack_:
-*Link*: |
+#### Rest Reminder
+![Uploading Simulator Screen Recording - iPhone 14 Pro - 2022-10-27 at 19.27.02.gif…]()
