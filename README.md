@@ -27,9 +27,14 @@
 
 ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/116024961/198470463-787cfcbc-73e1-4264-9c30-61d71a8a5f20.gif)
 
+
+https://user-images.githubusercontent.com/116024961/198479389-198909c0-8d76-4797-9049-133d56a0e8dd.mp4
+
+
 __Description__: An app that sends holiday reminder notifications. You need to choose the duration and frequency of breaks.
 
 __Stack__: MVP, UIKit
 
 __Link__: https://github.com/aleed4/RestReminder
+
 ---
