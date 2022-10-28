@@ -22,6 +22,10 @@
 ### Pet projects published on GitHub:
 
 ### Study projects published on GitHub:
-
-#### Rest Reminder
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/116024961/198469698-8a77495e-846c-4a1b-822f-6daccabe0984.gif)
+---
+#### 1. Rest Reminder
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/116024961/198470463-787cfcbc-73e1-4264-9c30-61d71a8a5f20.gif)
+*Description*: An app that sends holiday reminder notifications. You need to choose the duration and frequency of breaks.
+*Stack*: MVP, UIKit
+*Link*: https://github.com/aleed4/RestReminder
+---
