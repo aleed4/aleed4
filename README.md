@@ -24,4 +24,4 @@
 ### Study projects published on GitHub:
 
 #### Rest Reminder
-![Uploading Simulator Screen Recording - iPhone 14 Pro - 2022-10-27 at 19.27.02.gif…]()
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/116024961/198469698-8a77495e-846c-4a1b-822f-6daccabe0984.gif)
