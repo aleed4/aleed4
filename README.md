@@ -23,9 +23,9 @@
 ### Pet projects published on GitHub:
 ---
 ### Study projects published on GitHub:
-
+---
 #### 1. Rest Reminder
-
+___
 ![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/116024961/198486075-8a4239fa-28c6-4f27-b4f6-df1f51b3a445.gif)
 
 __Description__: An app that sends holiday reminder notifications. You need to choose the duration and frequency of breaks.
