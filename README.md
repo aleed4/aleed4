@@ -25,7 +25,7 @@
 ---
 #### 1. Rest Reminder
 
-![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/116024961/198482656-dadbeeb4-13ac-454d-88be-eed86192e87a.gif)
+![ezgif com-gif-maker-5](https://user-images.githubusercontent.com/116024961/198486075-8a4239fa-28c6-4f27-b4f6-df1f51b3a445.gif)
 
 __Description__: An app that sends holiday reminder notifications. You need to choose the duration and frequency of breaks.
 
