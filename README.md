@@ -28,7 +28,7 @@
 
 ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/116024961/206858230-67de58cb-65f7-4492-ad22-dcb9313d3d46.gif)
 
-__Description__: An app that sends holiday reminder notifications. You need to choose the duration and frequency of breaks.
+__Description__: An app that sends you reminders about your breaks. You have the ability to choose the duration and frequency of your breaks.
 
 __Stack__: MVP, UIKit
 
